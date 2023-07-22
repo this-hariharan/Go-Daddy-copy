@@ -1,0 +1,147 @@
+#main{
+    border: 1px solid black;
+    height: 120vh;
+    background-image: url("https://sso.godaddy.com/trust-center/_next/static/media/whatsApp.cb10405f.jpeg");
+    background-size: cover;
+}
+#sub{
+    border: 1px solid black;
+    width: 40%;
+    height: 90%;
+    margin-left: 600px;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 10px;
+}
+#sub1{
+    /* border: 1px solid black; */
+    width: 80%;
+    height: 100%;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+#img{
+    margin-left: -5px;
+}
+#para1{
+    font-size: 25px;
+    margin-top: 10px;
+}
+#para2{
+    font-size: 18px;
+}
+#para3{
+    /* border: 1px solid black; */
+    width: 150px;
+    font-size: 18px;
+    margin: -37px 141px;
+    color: #A6FFF8;
+    text-decoration: underline;
+}
+#inp1{
+    margin-top: 70px;
+    width: 80%;
+    height: 8%;
+}
+#inp_sub{
+    margin-top: -35px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+#hide1{
+    margin-top: 15px;
+    color: red;
+    display: none;
+}
+#pass{
+    width: 80%;
+    height: 7%;
+    margin-top: 40px;
+}
+#inp_sub2{
+    margin-top: -30px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+#hide2{
+    margin-top: 15px;
+    color: red;
+    display: none;
+}
+#check{
+    margin-top: 30px;
+    scale: 1.5;
+}
+#para4{
+    margin: -20px 25px;
+}
+
+#bu{
+    width: 80%;
+    margin-top: 50px;
+    height: 8%;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+#parax{
+    margin-left: 130px;
+}
+
+#fb{
+    scale: 1.5;
+    border: 1px solid black;
+    padding: 5px;
+    margin-left: 170px;
+}
+#apple{
+    scale: 1.5;
+    border: 1px solid black;
+    padding: 5px;
+    margin-left: -100px;
+}
+#google{
+    scale: 1.5;
+    border: 1px solid black;
+    padding: 5px;
+    margin-left: 115px;
+}
+
+#fb:hover{
+    color: #318DA1;
+}
+#apple:hover{
+    color: #318DA1;
+}
+#google:hover{
+    color: #318DA1;
+}
+#para_a{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#para_b{
+    transform: translate(115px,-35px);
+    color: #318DA1;
+    text-decoration: underline;
+}
+#para_c{
+    transform: translate(215px,-68px);
+}
+#para_d{
+    transform: translate(235px,-102px);
+    color: #318DA1;
+    text-decoration: underline;
+}
+#foot{
+    border: 1px solid black;
+    height: 10vh;
+}
+#foot_a{
+        margin-left: 250px;
+}
+#foot_b{
+    transform: translate(798px,-35px);
+    color: #318DA1;
+    text-decoration: underline;
+}
